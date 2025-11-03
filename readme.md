@@ -241,21 +241,33 @@ Goal: Transforming ideas into digital reality
 
 <table>
 <tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reduanahmadswe&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0" alt="GitHub Streak"/>
-</td>
-<td width="50%" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reduanahmadswe&theme=radical&utcOffset=6" alt="Productive Time"/>
-</td>
+  <td align="center" width="50%"><strong>🔥 Contribution Streak</strong></td>
+  <td align="center" width="50%"><strong>⏰ Productive Time</strong></td>
 </tr>
-
 <tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reduanahmadswe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&langs_count=8" alt="Top Languages"/>
-</td>
-<td width="50%" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reduanahmadswe&theme=radical" alt="Most Committed Language"/>
-</td>
+  <td width="50%" align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=reduanahmadswe&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0" alt="GitHub Streak"/>
+  </td>
+  <td width="50%" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reduanahmadswe&theme=radical&utcOffset=6" alt="Productive Time"/>
+  </td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+  <td align="center" width="50%"><strong>📚 Top Languages</strong></td>
+  <td align="center" width="50%"><strong>💻 Most Commit Language</strong></td>
+</tr>
+<tr>
+  <td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reduanahmadswe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&langs_count=8" alt="Top Languages"/>
+  </td>
+  <td width="50%" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reduanahmadswe&theme=radical" alt="Most Committed Language"/>
+  </td>
 </tr>
 </table>
 
