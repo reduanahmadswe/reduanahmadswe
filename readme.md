@@ -300,22 +300,10 @@ Goal: Transforming ideas into digital reality
 
 <div align="center">
 
-## � **Random Dev Quote**
+## 💭 **Dev Quote**
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-<div align="center">
-
-## 🎯 **My Coding Journey**
-
-<img src="https://github-readme-stats.vercel.app/api?username=reduanahmadswe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-contributor-stats.vercel.app/api?username=reduanahmadswe&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" width="48%" alt="Top Contributed Repos"/>
 
 </div>
 
