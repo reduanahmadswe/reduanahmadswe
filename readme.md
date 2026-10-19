@@ -1,17 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Reduan%20Ahmad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Software%20Engineer%20•%20Problem%20Solver&descSize=18&descAlignY=60"/>
+<img src="assets/header.svg" alt="Reduan Ahmad - Full-Stack Developer" width="100%"/>
 
 <a href="https://github.com/reduanahmadswe">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+scalable+web+products+🚀;MERN+%7C+Next.js+%7C+TypeScript+⚡;Shipping+real+projects+for+real+businesses+💼;Learn.+Build.+Share.+Repeat.+🔄" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&height=40&lines=Building+scalable+web+products;MERN+%7C+Next.js+%7C+TypeScript;Shipping+real+projects+for+real+businesses;Learn.+Build.+Share.+Repeat." alt="Typing SVG"/>
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=reduanahmadswe&style=flat-square&color=00D9FF&label=PROFILE+VIEWS&labelColor=0D1117)
-![Followers](https://img.shields.io/github/followers/reduanahmadswe?style=flat-square&color=00D9FF&labelColor=0D1117&logo=github)
-![Stars](https://img.shields.io/github/stars/reduanahmadswe?style=flat-square&color=FFD700&labelColor=0D1117&logo=github)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=reduanahmadswe&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/reduanahmadswe?style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github)
+![Stars](https://img.shields.io/github/stars/reduanahmadswe?style=for-the-badge&color=FFD700&labelColor=0D1117&logo=github)
 
 <br/>
 
@@ -22,9 +21,9 @@
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<img src="assets/banner-about.svg" alt="About Me" width="100%"/>
 
 I'm a **Software Engineering student at Daffodil International University** and a **Full-Stack Developer** based in Dhaka, Bangladesh 🇧🇩. I turn ideas into fast, accessible and scalable products, from e-commerce and education platforms to corporate websites and AI-powered apps.
 
@@ -35,118 +34,71 @@ const reduan = {
   education: "B.Sc. in Software Engineering @ DIU",
   stack: ["React", "Next.js", "TypeScript", "Node.js", "Express", "MongoDB", "PostgreSQL"],
   currentlyLearning: ["System Design", "Cloud & DevOps", "AI Integrations"],
-  practices: ["Clean Code", "REST API Design", "Competitive Programming"],
   funFact: "I solve problems on LeetCode for fun 🧩",
 } as const;
 ```
 
----
+<br/>
 
-## 🚀 Featured Projects
+<img src="assets/banner-projects.svg" alt="Featured Projects" width="100%"/>
 
-Live products I have designed and built.
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🛒 [Mama Bazar](https://mama-bazar.com/)
-Online grocery & lifestyle store delivering daily essentials across Bangladesh.
-`E-commerce` `Full-Stack`
-
-[![Live](https://img.shields.io/badge/Live-Visit%20Site-00D9FF?style=flat-square)](https://mama-bazar.com/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [MicroLearning](https://microlearning-beta.vercel.app/home)
-AI-powered platform that generates 1–2 minute micro lessons on any topic.
-`AI` `EdTech` `Vercel`
-
-[![Live](https://img.shields.io/badge/Live-Visit%20Site-00D9FF?style=flat-square)](https://microlearning-beta.vercel.app/home)
-
-</td>
+<td><a href="https://mama-bazar.com/"><img src="assets/card-mama.svg" width="100%" alt="Mama Bazar"/></a></td>
+<td><a href="https://microlearning-beta.vercel.app/home"><img src="assets/card-micro.svg" width="100%" alt="MicroLearning"/></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🎓 [ORIYET](https://oriyet.org/)
-Educational platform to join events, earn certificates and connect with experts.
-`EdTech` `Events` `Certificates`
-
-[![Live](https://img.shields.io/badge/Live-Visit%20Site-00D9FF?style=flat-square)](https://oriyet.org/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏫 [MBL Global Academy](https://mblglobalacademy.com/)
-Official website with courses, resources, podcasts, testimonials and executive leadership development.
-`Education` `Corporate Website`
-
-[![Live](https://img.shields.io/badge/Live-Visit%20Site-00D9FF?style=flat-square)](https://mblglobalacademy.com/)
-
-</td>
+<td><a href="https://oriyet.org/"><img src="assets/card-oriyet.svg" width="100%" alt="ORIYET"/></a></td>
+<td><a href="https://mblglobalacademy.com/"><img src="assets/card-mbl.svg" width="100%" alt="MBL Global Academy"/></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🐔 [Provet Resources Ltd](https://provet.bornosoftnr.com/)
-Corporate website for a poultry nutrition and feed solutions company in Bangladesh.
-`Corporate` `AgriTech`
-
-[![Live](https://img.shields.io/badge/Live-Visit%20Site-00D9FF?style=flat-square)](https://provet.bornosoftnr.com/)
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 [GC ServiceX](https://gcservicex.com/)
-Business development and growth services website.
-`Business` `Corporate Website`
-
-[![Live](https://img.shields.io/badge/Live-Visit%20Site-00D9FF?style=flat-square)](https://gcservicex.com/)
-
-</td>
+<td><a href="https://provet.bornosoftnr.com/"><img src="assets/card-provet.svg" width="100%" alt="Provet Resources"/></a></td>
+<td><a href="https://gcservicex.com/"><img src="assets/card-gc.svg" width="100%" alt="GC ServiceX"/></a></td>
 </tr>
 </table>
 
-> 📂 More projects and source code are on my [GitHub repositories](https://github.com/reduanahmadswe?tab=repositories) and [portfolio](https://www.reduanahmadswe.site/).
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-| | |
-|:---|:---|
-| **Languages** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Backend** | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![REST](https://img.shields.io/badge/REST%20API-02569B?style=flat-square) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+<sub>👆 Click any card to open the live site. More on <a href="https://github.com/reduanahmadswe?tab=repositories">GitHub</a> and my <a href="https://www.reduanahmadswe.site/">portfolio</a>.</sub>
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<img src="assets/banner-stack.svg" alt="Tech Stack" width="100%"/>
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,java,py,c&perline=6" alt="Languages"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&perline=6" alt="Frameworks"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite,firebase,vercel&perline=6" alt="Databases & Cloud"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,linux&perline=6" alt="Tools"/>
+
+</div>
+
+<br/>
+
+<img src="assets/banner-stats.svg" alt="GitHub Universe" width="100%"/>
+
+<div align="center">
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=reduanahmadswe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reduanahmadswe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=reduanahmadswe&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0" alt="GitHub Streak"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reduanahmadswe&theme=radical" alt="Profile Summary"/>
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reduanahmadswe&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF)
 
 </div>
 
----
+<br/>
 
-## 🏆 Competitive Programming
+<img src="assets/banner-cp.svg" alt="Problem Solving" width="100%"/>
 
 <div align="center">
 
@@ -159,21 +111,20 @@ Business development and growth services website.
 
 </div>
 
----
+<br/>
 
-## 🤝 Let's Work Together
+<img src="assets/banner-contact.svg" alt="Contact" width="100%"/>
 
 <div align="center">
 
-| 💻 Full-Stack Projects | 🤝 Freelance Work | 🚀 Startups | 📚 Open Source |
-|:---:|:---:|:---:|:---:|
-
 📧 **[reduanahmadswe@gmail.com](mailto:reduanahmadswe@gmail.com)** &nbsp;•&nbsp; 📱 **[+880 1538 363737](tel:+8801538363737)** &nbsp;•&nbsp; 🌐 **[reduanahmadswe.site](https://www.reduanahmadswe.site/)**
 
-*"The best way to predict the future is to create it."*
+Open for **Full-Stack Projects • Freelance • Startups • Open Source**
 
 **⭐ Star my repositories if you find them useful!**
 
-</div>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img src="assets/footer.svg" alt="Let's build something great" width="100%"/>
+
+</div>
