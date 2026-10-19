@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+<style>
+@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
+@keyframes tilt{0%,100%{transform:rotate(-1deg)}50%{transform:rotate(1deg)}}
+@keyframes glow{0%,100%{opacity:.5}50%{opacity:1}}
+@keyframes grid{from{stroke-dashoffset:0}to{stroke-dashoffset:-28}}
+.float{animation:fl 4s ease-in-out infinite}
+.tilt{animation:tilt 6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.glow{animation:glow 3s ease-in-out infinite}
+.gl{animation:grid 1.5s linear infinite}
+</style><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0f1a"/><stop offset=".5" stop-color="#101a33"/><stop offset="1" stop-color="#0a1626"/></linearGradient>
+<linearGradient id="face" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#8fe9ff"/></linearGradient>
+<linearGradient id="face2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00d9ff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<radialGradient id="orb" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#00d9ff" stop-opacity=".35"/><stop offset="1" stop-color="#00d9ff" stop-opacity="0"/></radialGradient>
+<filter id="sh" x="-20%" y="-20%" width="140%" height="170%"><feDropShadow dx="0" dy="14" stdDeviation="10" flood-color="#000" flood-opacity=".6"/></filter>
+</defs><rect width="1200" height="400" rx="24" fill="url(#bg)"/>
+<circle cx="959" cy="38" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="1.7s" begin="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="545" cy="139" r="1.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.8s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="159" cy="213" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.8s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="317" cy="77" r="1.4" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.1s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="250" cy="181" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.2s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="1188" cy="20" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.3s" begin="1.7s" repeatCount="indefinite"/></circle>
+<circle cx="230" cy="193" r="1.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="1.8s" begin="2.5s" repeatCount="indefinite"/></circle>
+<circle cx="519" cy="201" r="1.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.9s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="261" cy="96" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.6s" begin="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="762" cy="165" r="1.4" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="4.0s" begin="2.5s" repeatCount="indefinite"/></circle>
+<circle cx="22" cy="252" r="1.4" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.6s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="797" cy="155" r="1.4" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.0s" begin="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="59" cy="78" r="1.4" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.6s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="1150" cy="389" r="1.4" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.1s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="373" cy="146" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.3s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="337" cy="264" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.8s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="319" cy="40" r="1.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.0s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="362" cy="254" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.0s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="898" cy="265" r="1.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.4s" begin="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="593" cy="117" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="1.6s" begin="2.5s" repeatCount="indefinite"/></circle>
+<circle cx="1066" cy="253" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.8s" begin="2.3s" repeatCount="indefinite"/></circle>
+<circle cx="681" cy="326" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.6s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="1067" cy="275" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="1.7s" begin="0.1s" repeatCount="indefinite"/></circle>
+<circle cx="763" cy="384" r="1.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.6s" begin="1.7s" repeatCount="indefinite"/></circle>
+<circle cx="752" cy="252" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.7s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="954" cy="301" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.1s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="882" cy="105" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.6s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="905" cy="96" r="1.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.7s" begin="1.1s" repeatCount="indefinite"/></circle>
+<circle cx="575" cy="275" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.0s" begin="1.9s" repeatCount="indefinite"/></circle>
+<circle cx="97" cy="63" r="1.4" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.1s" begin="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="744" cy="58" r="1.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="1.7s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="805" cy="278" r="1.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.2s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="558" cy="189" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="4.0s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="376" cy="39" r="1.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="1.5s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="981" cy="387" r="1.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="4.0s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="1096" cy="373" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.0s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="629" cy="381" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.0s" begin="1.9s" repeatCount="indefinite"/></circle>
+<circle cx="338" cy="50" r="1.4" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.1s" begin="2.7s" repeatCount="indefinite"/></circle>
+<circle cx="584" cy="15" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.9s" begin="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="487" cy="292" r="1.8" fill="#fff"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.4s" begin="0.9s" repeatCount="indefinite"/></circle>
+<g class="float" style="animation-delay:0.0s;animation-duration:4.0s">
+<rect x="32" y="52" width="120" height="120" rx="22" fill="#000" opacity=".45"/>
+<rect x="28" y="48" width="120" height="120" rx="22" fill="#f7df1e" opacity=".55"/>
+<rect x="25" y="44" width="120" height="120" rx="22" fill="#f7df1e" opacity=".8"/>
+<rect x="22" y="40" width="120" height="120" rx="22" fill="#f7df1e"/>
+<rect x="22" y="40" width="120" height="60" rx="22" fill="#fff" opacity=".12"/>
+<text x="82" y="108" font-size="40" font-weight="900" text-anchor="middle" fill="#000" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">JS</text>
+<text x="82" y="140" font-size="13" font-weight="700" text-anchor="middle" fill="#000" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">JavaScript</text></g><g class="float" style="animation-delay:0.25s;animation-duration:4.5s">
+<rect x="177" y="52" width="120" height="120" rx="22" fill="#000" opacity=".45"/>
+<rect x="173" y="48" width="120" height="120" rx="22" fill="#3178c6" opacity=".55"/>
+<rect x="170" y="44" width="120" height="120" rx="22" fill="#3178c6" opacity=".8"/>
+<rect x="167" y="40" width="120" height="120" rx="22" fill="#3178c6"/>
+<rect x="167" y="40" width="120" height="60" rx="22" fill="#fff" opacity=".12"/>
+<text x="227" y="108" font-size="40" font-weight="900" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">TS</text>
+<text x="227" y="140" font-size="13" font-weight="700" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">TypeScript</text></g><g class="float" style="animation-delay:0.5s;animation-duration:5.0s">
+<rect x="322" y="52" width="120" height="120" rx="22" fill="#000" opacity=".45"/>
+<rect x="318" y="48" width="120" height="120" rx="22" fill="#00599c" opacity=".55"/>
+<rect x="315" y="44" width="120" height="120" rx="22" fill="#00599c" opacity=".8"/>
+<rect x="312" y="40" width="120" height="120" rx="22" fill="#00599c"/>
+<rect x="312" y="40" width="120" height="60" rx="22" fill="#fff" opacity=".12"/>
+<text x="372" y="108" font-size="40" font-weight="900" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">C++</text>
+<text x="372" y="140" font-size="13" font-weight="700" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">C++</text></g><g class="float" style="animation-delay:0.75s;animation-duration:4.0s">
+<rect x="467" y="52" width="120" height="120" rx="22" fill="#000" opacity=".45"/>
+<rect x="463" y="48" width="120" height="120" rx="22" fill="#ed8b00" opacity=".55"/>
+<rect x="460" y="44" width="120" height="120" rx="22" fill="#ed8b00" opacity=".8"/>
+<rect x="457" y="40" width="120" height="120" rx="22" fill="#ed8b00"/>
+<rect x="457" y="40" width="120" height="60" rx="22" fill="#fff" opacity=".12"/>
+<text x="517" y="108" font-size="40" font-weight="900" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Jv</text>
+<text x="517" y="140" font-size="13" font-weight="700" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Java</text></g><g class="float" style="animation-delay:1.0s;animation-duration:4.5s">
+<rect x="612" y="52" width="120" height="120" rx="22" fill="#000" opacity=".45"/>
+<rect x="608" y="48" width="120" height="120" rx="22" fill="#3776ab" opacity=".55"/>
+<rect x="605" y="44" width="120" height="120" rx="22" fill="#3776ab" opacity=".8"/>
+<rect x="602" y="40" width="120" height="120" rx="22" fill="#3776ab"/>
+<rect x="602" y="40" width="120" height="60" rx="22" fill="#fff" opacity=".12"/>
+<text x="662" y="108" font-size="40" font-weight="900" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Py</text>
+<text x="662" y="140" font-size="13" font-weight="700" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Python</text></g><g class="float" style="animation-delay:1.25s;animation-duration:5.0s">
+<rect x="757" y="52" width="120" height="120" rx="22" fill="#000" opacity=".45"/>
+<rect x="753" y="48" width="120" height="120" rx="22" fill="#20232a" opacity=".55"/>
+<rect x="750" y="44" width="120" height="120" rx="22" fill="#20232a" opacity=".8"/>
+<rect x="747" y="40" width="120" height="120" rx="22" fill="#20232a"/>
+<rect x="747" y="40" width="120" height="60" rx="22" fill="#fff" opacity=".12"/>
+<text x="807" y="108" font-size="40" font-weight="900" text-anchor="middle" fill="#61dafb" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Re</text>
+<text x="807" y="140" font-size="13" font-weight="700" text-anchor="middle" fill="#61dafb" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">React</text></g><g class="float" style="animation-delay:1.5s;animation-duration:4.0s">
+<rect x="902" y="52" width="120" height="120" rx="22" fill="#000" opacity=".45"/>
+<rect x="898" y="48" width="120" height="120" rx="22" fill="#111" opacity=".55"/>
+<rect x="895" y="44" width="120" height="120" rx="22" fill="#111" opacity=".8"/>
+<rect x="892" y="40" width="120" height="120" rx="22" fill="#111"/>
+<rect x="892" y="40" width="120" height="60" rx="22" fill="#fff" opacity=".12"/>
+<text x="952" y="108" font-size="40" font-weight="900" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Nx</text>
+<text x="952" y="140" font-size="13" font-weight="700" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Next.js</text></g><g class="float" style="animation-delay:1.75s;animation-duration:4.5s">
+<rect x="1047" y="52" width="120" height="120" rx="22" fill="#000" opacity=".45"/>
+<rect x="1043" y="48" width="120" height="120" rx="22" fill="#339933" opacity=".55"/>
+<rect x="1040" y="44" width="120" height="120" rx="22" fill="#339933" opacity=".8"/>
+<rect x="1037" y="40" width="120" height="120" rx="22" fill="#339933"/>
+<rect x="1037" y="40" width="120" height="60" rx="22" fill="#fff" opacity=".12"/>
+<text x="1097" y="108" font-size="40" font-weight="900" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">No</text>
+<text x="1097" y="140" font-size="13" font-weight="700" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Node.js</text></g><g class="float" style="animation-delay:0.0s;animation-duration:5.0s">
+<rect x="32" y="232" width="120" height="120" rx="22" fill="#000" opacity=".45"/>
+<rect x="28" y="228" width="120" height="120" rx="22" fill="#222" opacity=".55"/>
+<rect x="25" y="224" width="120" height="120" rx="22" fill="#222" opacity=".8"/>
+<rect x="22" y="220" width="120" height="120" rx="22" fill="#222"/>
+<rect x="22" y="220" width="120" height="60" rx="22" fill="#fff" opacity=".12"/>
+<text x="82" y="288" font-size="40" font-weight="900" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Ex</text>
+<text x="82" y="320" font-size="13" font-weight="700" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Express</text></g><g class="float" style="animation-delay:0.25s;animation-duration:4.0s">
+<rect x="177" y="232" width="120" height="120" rx="22" fill="#000" opacity=".45"/>
+<rect x="173" y="228" width="120" height="120" rx="22" fill="#06b6d4" opacity=".55"/>
+<rect x="170" y="224" width="120" height="120" rx="22" fill="#06b6d4" opacity=".8"/>
+<rect x="167" y="220" width="120" height="120" rx="22" fill="#06b6d4"/>
+<rect x="167" y="220" width="120" height="60" rx="22" fill="#fff" opacity=".12"/>
+<text x="227" y="288" font-size="40" font-weight="900" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Tw</text>
+<text x="227" y="320" font-size="13" font-weight="700" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Tailwind</text></g><g class="float" style="animation-delay:0.5s;animation-duration:4.5s">
+<rect x="322" y="232" width="120" height="120" rx="22" fill="#000" opacity=".45"/>
+<rect x="318" y="228" width="120" height="120" rx="22" fill="#47a248" opacity=".55"/>
+<rect x="315" y="224" width="120" height="120" rx="22" fill="#47a248" opacity=".8"/>
+<rect x="312" y="220" width="120" height="120" rx="22" fill="#47a248"/>
+<rect x="312" y="220" width="120" height="60" rx="22" fill="#fff" opacity=".12"/>
+<text x="372" y="288" font-size="40" font-weight="900" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Mo</text>
+<text x="372" y="320" font-size="13" font-weight="700" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">MongoDB</text></g><g class="float" style="animation-delay:0.75s;animation-duration:5.0s">
+<rect x="467" y="232" width="120" height="120" rx="22" fill="#000" opacity=".45"/>
+<rect x="463" y="228" width="120" height="120" rx="22" fill="#4169e1" opacity=".55"/>
+<rect x="460" y="224" width="120" height="120" rx="22" fill="#4169e1" opacity=".8"/>
+<rect x="457" y="220" width="120" height="120" rx="22" fill="#4169e1"/>
+<rect x="457" y="220" width="120" height="60" rx="22" fill="#fff" opacity=".12"/>
+<text x="517" y="288" font-size="40" font-weight="900" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Pg</text>
+<text x="517" y="320" font-size="13" font-weight="700" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">PostgreSQL</text></g><g class="float" style="animation-delay:1.0s;animation-duration:4.0s">
+<rect x="612" y="232" width="120" height="120" rx="22" fill="#000" opacity=".45"/>
+<rect x="608" y="228" width="120" height="120" rx="22" fill="#4479a1" opacity=".55"/>
+<rect x="605" y="224" width="120" height="120" rx="22" fill="#4479a1" opacity=".8"/>
+<rect x="602" y="220" width="120" height="120" rx="22" fill="#4479a1"/>
+<rect x="602" y="220" width="120" height="60" rx="22" fill="#fff" opacity=".12"/>
+<text x="662" y="288" font-size="40" font-weight="900" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">My</text>
+<text x="662" y="320" font-size="13" font-weight="700" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">MySQL</text></g><g class="float" style="animation-delay:1.25s;animation-duration:4.5s">
+<rect x="757" y="232" width="120" height="120" rx="22" fill="#000" opacity=".45"/>
+<rect x="753" y="228" width="120" height="120" rx="22" fill="#ffca28" opacity=".55"/>
+<rect x="750" y="224" width="120" height="120" rx="22" fill="#ffca28" opacity=".8"/>
+<rect x="747" y="220" width="120" height="120" rx="22" fill="#ffca28"/>
+<rect x="747" y="220" width="120" height="60" rx="22" fill="#fff" opacity=".12"/>
+<text x="807" y="288" font-size="40" font-weight="900" text-anchor="middle" fill="#000" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Fb</text>
+<text x="807" y="320" font-size="13" font-weight="700" text-anchor="middle" fill="#000" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Firebase</text></g><g class="float" style="animation-delay:1.5s;animation-duration:5.0s">
+<rect x="902" y="232" width="120" height="120" rx="22" fill="#000" opacity=".45"/>
+<rect x="898" y="228" width="120" height="120" rx="22" fill="#f05032" opacity=".55"/>
+<rect x="895" y="224" width="120" height="120" rx="22" fill="#f05032" opacity=".8"/>
+<rect x="892" y="220" width="120" height="120" rx="22" fill="#f05032"/>
+<rect x="892" y="220" width="120" height="60" rx="22" fill="#fff" opacity=".12"/>
+<text x="952" y="288" font-size="40" font-weight="900" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Gt</text>
+<text x="952" y="320" font-size="13" font-weight="700" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Git &amp; GitHub</text></g><g class="float" style="animation-delay:1.75s;animation-duration:4.0s">
+<rect x="1047" y="232" width="120" height="120" rx="22" fill="#000" opacity=".45"/>
+<rect x="1043" y="228" width="120" height="120" rx="22" fill="#000" opacity=".55"/>
+<rect x="1040" y="224" width="120" height="120" rx="22" fill="#000" opacity=".8"/>
+<rect x="1037" y="220" width="120" height="120" rx="22" fill="#000"/>
+<rect x="1037" y="220" width="120" height="60" rx="22" fill="#fff" opacity=".12"/>
+<text x="1097" y="288" font-size="40" font-weight="900" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Vc</text>
+<text x="1097" y="320" font-size="13" font-weight="700" text-anchor="middle" fill="#fff" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Vercel</text></g></svg>

@@ -21,7 +21,7 @@
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <img src="assets/banner-about.svg" alt="About Me" width="100%"/>
 
@@ -38,7 +38,9 @@ const reduan = {
 } as const;
 ```
 
-<br/>
+<img src="assets/stats.svg" alt="Highlights" width="100%"/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <img src="assets/banner-projects.svg" alt="Featured Projects" width="100%"/>
 
@@ -63,29 +65,28 @@ const reduan = {
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <img src="assets/banner-stack.svg" alt="Tech Stack" width="100%"/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,java,py,c&perline=6" alt="Languages"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&perline=6" alt="Frameworks"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite,firebase,vercel&perline=6" alt="Databases & Cloud"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,linux&perline=6" alt="Tools"/>
+<img src="assets/skills.svg" alt="Skills" width="100%"/>
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <img src="assets/banner-stats.svg" alt="GitHub Universe" width="100%"/>
 
 <div align="center">
 
 <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reduanahmadswe/reduanahmadswe/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/reduanahmadswe/reduanahmadswe/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=reduanahmadswe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reduanahmadswe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
@@ -96,7 +97,7 @@ const reduan = {
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <img src="assets/banner-cp.svg" alt="Problem Solving" width="100%"/>
 
@@ -111,7 +112,7 @@ const reduan = {
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <img src="assets/banner-contact.svg" alt="Contact" width="100%"/>
 
