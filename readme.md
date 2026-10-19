@@ -81,19 +81,14 @@ const reduan = {
 
 <div align="center">
 
-<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reduanahmadswe/reduanahmadswe/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/reduanahmadswe/reduanahmadswe/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+<img src="assets/contrib-3d.svg" alt="3D Contribution Graph" width="100%"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=reduanahmadswe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reduanahmadswe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=reduanahmadswe&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0" alt="GitHub Streak"/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reduanahmadswe&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF)
+<img src="assets/activity.svg" alt="Weekly Activity" width="100%"/>
 
 </div>
 
