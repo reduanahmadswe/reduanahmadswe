@@ -1,419 +1,179 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reduan%20Ahmad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Software%20Engineer&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Reduan%20Ahmad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Software%20Engineer%20•%20Problem%20Solver&descSize=18&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Hi+There!+%F0%9F%91%8B+I'm+Reduan+Ahmad;Full-Stack+Developer+%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%8E%93;Competitive+Programmer+%F0%9F%A7%A9;Building+Digital+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://github.com/reduanahmadswe">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+scalable+web+products+🚀;MERN+%7C+Next.js+%7C+TypeScript+⚡;Shipping+real+projects+for+real+businesses+💼;Learn.+Build.+Share.+Repeat.+🔄" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=reduanahmadswe&style=flat-square&color=00D9FF&label=PROFILE+VIEWS&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/reduanahmadswe?style=flat-square&color=00D9FF&labelColor=0D1117&logo=github)
+![Stars](https://img.shields.io/github/stars/reduanahmadswe?style=flat-square&color=FFD700&labelColor=0D1117&logo=github)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square&labelColor=0D1117)
 
-[![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reduanahmadswe&theme=radical)](https://reduanahmadswe.vercel.app)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://www.reduanahmadswe.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reduanahmadswe/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reduanahmadswe@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B8801538363737)
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-## 🌐 **Connect With Me**
+I'm a **Software Engineering student at Daffodil International University** and a **Full-Stack Developer** based in Dhaka, Bangladesh 🇧🇩. I turn ideas into fast, accessible and scalable products, from e-commerce and education platforms to corporate websites and AI-powered apps.
 
-<table>
-<tr>
-  <td align="center"><strong>💼 LinkedIn</strong></td>
-  <td align="center"><strong>🌐 Portfolio</strong></td>
-  <td align="center"><strong>📧 Email</strong></td>
-  <td align="center"><strong>💻 GitHub</strong></td>
-  <td align="center"><strong>💬 WhatsApp</strong></td>
-</tr>
-<tr>
-  <td align="center">
-    <a href="https://www.linkedin.com/in/reduanahmadswe/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="35" alt="linkedin"/>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://www.reduanahmadswe.site/">
-      <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF7139" height="35" alt="portfolio"/>
-    </a>
-  </td>
-  <td align="center">
-    <a href="mailto:reduanahmadswe@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="35" alt="email"/>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://github.com/reduanahmadswe">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="35" alt="github"/>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://api.whatsapp.com/send/?phone=%2B8801538363737&text&type=phone_number&app_absent=0">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" height="35" alt="whatsapp"/>
-    </a>
-  </td>
-</tr>
-</table>
-
-<br/>
-
-### 📊 **Profile Stats**
-
-<table>
-<tr>
-  <td align="center"><strong>⭐ Stars</strong></td>
-  <td align="center"><strong>👥 Followers</strong></td>
-  <td align="center"><strong>👁️ Views</strong></td>
-  <td align="center"><strong>💼 Status</strong></td>
-</tr>
-<tr>
-  <td align="center">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/reduanahmadswe?color=FFD700&style=for-the-badge&labelColor=1F222E&logo=star&logoColor=FFD700" alt="stars"/>
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/github/followers/reduanahmadswe?color=00D9FF&style=for-the-badge&logo=github&label=Followers&labelColor=1F222E" alt="followers"/>
-  </td>
-  <td align="center">
-    <img src="https://komarev.com/ghpvc/?username=reduanahmadswe&style=for-the-badge&color=00D9FF&label=Profile+Views&labelColor=1F222E" alt="views"/>
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/Status-Available%20For%20Hire-success?style=for-the-badge&labelColor=1F222E" alt="status"/>
-  </td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me**
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```javascript
-const reduanAhmad = {
-    location: "📍 Dhaka, Bangladesh 🇧🇩",
-    role: "Full-Stack Developer",
-    education: "B.Sc. in Software Engineering",
-    university: "Daffodil International University",
-    experience: "2+ Years",
-    expertise: {
-        frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
-        backend: ["Node.js", "Express.js", "MongoDB", "PostgreSQL", "MySQL"],
-        languages: ["JavaScript", "TypeScript", "C++", "Java", "Python"]
-    },
-    focus: ["MERN Stack", "Problem Solving", "Open Source"],
-    currently: "Building scalable web applications",
-    contact: {
-        email: "reduanahmadswe@gmail.com",
-        portfolio: "https://www.reduanahmadswe.site/"
-    },
-    motto: "Learn. Build. Share. Repeat. 🔄"
-};
+```ts
+const reduan = {
+  role: "Full-Stack Developer",
+  location: "Dhaka, Bangladesh 🇧🇩",
+  education: "B.Sc. in Software Engineering @ DIU",
+  stack: ["React", "Next.js", "TypeScript", "Node.js", "Express", "MongoDB", "PostgreSQL"],
+  currentlyLearning: ["System Design", "Cloud & DevOps", "AI Integrations"],
+  practices: ["Clean Code", "REST API Design", "Competitive Programming"],
+  funFact: "I solve problems on LeetCode for fun 🧩",
+} as const;
 ```
 
-<br clear="right"/>
-
-### 🎯 **Current Focus**
-
-```yaml
-Building: Modern, scalable web applications
-Mastering: MERN Stack (MongoDB, Express, React, Node.js)
-Practicing: Daily problem-solving on LeetCode & HackerRank
-Learning: Next.js, TypeScript & Cloud platforms
-Goal: Transforming ideas into digital reality
-```
-
-### 📊 **Professional Highlights**
-
-<div align="center">
-
-| 💼 Experience | 🏆 Projects | 📜 Certifications | 💻 Technologies |
-|:---:|:---:|:---:|:---:|
-| **2+ Years** | **15+** | **10+** | **15+** |
-| Web Development | Completed | Google, Microsoft, HackerRank | Tech Stack |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ---
 
-## 🏆 **Competitive Programming Arena**
+## 🚀 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>💻 LeetCode</strong></td>
-      <td align="center"><strong>🎯 HackerRank</strong></td>
-      <td align="center"><strong>📚 TutorialsPoint</strong></td>
-      <td align="center"><strong>🏅 Beecrowd</strong></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://www.leetcode.com/reduanahmadswe/">
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" height="35"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.hackerrank.com/reduanahmadswe/">
-          <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" height="35"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.tutorialspoint.com/authors/reduan-ahmad">
-          <img src="https://img.shields.io/badge/TutorialsPoint-5cb85c?style=for-the-badge&logo=readme&logoColor=white" height="35"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://judge.beecrowd.com/en/profile/943298">
-          <img src="https://img.shields.io/badge/Beecrowd-7C3AED?style=for-the-badge&logoColor=white" height="35"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-## 🛠️ **Tech Stack & Tools**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>💻 Programming Languages</strong></td>
-      <td align="center"><strong>🗄️ Databases</strong></td>
-      <td align="center"><strong>⚡ Frameworks & Libraries</strong></td>
-      <td align="center"><strong>🔧 Tools & Platforms</strong></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/reduanahmadswe">
-          <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py" alt="Programming Languages">
-        </a>
-      </td> 
-      <td align="center">
-        <a href="https://github.com/reduanahmadswe">
-          <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" alt="Databases">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/reduanahmadswe">
-          <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" alt="Frameworks">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/reduanahmadswe">
-          <img src="https://skillicons.dev/icons?i=git,github,firebase,vercel,postman,figma" alt="Tools & Platforms">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🎯 **Core Expertise**
-
-<div align="center">
-
-| **Frontend Development** | **Backend Development** | **Tools & Platforms** | **Languages** |
-|:---:|:---:|:---:|:---:|
-| React • Next.js | Node.js • Express.js | Git • GitHub | JavaScript • TypeScript |
-| Tailwind CSS • Bootstrap | MongoDB • PostgreSQL | Firebase • Vercel | C • C++ • Java • Python |
-| HTML5 • CSS3 | RESTful APIs | Postman • VS Code | SQL • NoSQL |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-## 📊 **GitHub Analytics Dashboard**
-
-<div align="center">
+Live products I have designed and built.
 
 <table>
 <tr>
-  <td align="center" width="50%"><strong>🔥 Contribution Streak</strong></td>
-  <td align="center" width="50%"><strong>⏰ Productive Time</strong></td>
-</tr>
-<tr>
-  <td width="50%" align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=reduanahmadswe&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0" alt="GitHub Streak"/>
-  </td>
-  <td width="50%" align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reduanahmadswe&theme=radical&utcOffset=6" alt="Productive Time"/>
-  </td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-<br/>
+### 🛒 [Mama Bazar](https://mama-bazar.com/)
+Online grocery & lifestyle store delivering daily essentials across Bangladesh.
+`E-commerce` `Full-Stack`
 
-<table>
-<tr>
-  <td align="center" width="50%"><strong>📚 Top Languages</strong></td>
-  <td align="center" width="50%"><strong>💻 Most Commit Language</strong></td>
-</tr>
-<tr>
-  <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reduanahmadswe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&langs_count=8" alt="Top Languages"/>
-  </td>
-  <td width="50%" align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reduanahmadswe&theme=radical" alt="Most Committed Language"/>
-  </td>
-</tr>
-</table>
+[![Live](https://img.shields.io/badge/Live-Visit%20Site-00D9FF?style=flat-square)](https://mama-bazar.com/)
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-## 🏅 **LeetCode Performance**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://leetcode-badge-sage.vercel.app/badge/reduanahmadswe?theme=dark&bgColor=0D1117&border_radius=10" alt="LeetCode Badge"/>
 </td>
-<td align="center" width="50%">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=reduanahmadswe&animated=true&theme=dark" alt="LeetCode Showcase"/>
+<td width="50%" valign="top">
+
+### 🧠 [MicroLearning](https://microlearning-beta.vercel.app/home)
+AI-powered platform that generates 1–2 minute micro lessons on any topic.
+`AI` `EdTech` `Vercel`
+
+[![Live](https://img.shields.io/badge/Live-Visit%20Site-00D9FF?style=flat-square)](https://microlearning-beta.vercel.app/home)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 [ORIYET](https://oriyet.org/)
+Educational platform to join events, earn certificates and connect with experts.
+`EdTech` `Events` `Certificates`
+
+[![Live](https://img.shields.io/badge/Live-Visit%20Site-00D9FF?style=flat-square)](https://oriyet.org/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏫 [MBL Global Academy](https://mblglobalacademy.com/)
+Official website with courses, resources, podcasts, testimonials and executive leadership development.
+`Education` `Corporate Website`
+
+[![Live](https://img.shields.io/badge/Live-Visit%20Site-00D9FF?style=flat-square)](https://mblglobalacademy.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐔 [Provet Resources Ltd](https://provet.bornosoftnr.com/)
+Corporate website for a poultry nutrition and feed solutions company in Bangladesh.
+`Corporate` `AgriTech`
+
+[![Live](https://img.shields.io/badge/Live-Visit%20Site-00D9FF?style=flat-square)](https://provet.bornosoftnr.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [GC ServiceX](https://gcservicex.com/)
+Business development and growth services website.
+`Business` `Corporate Website`
+
+[![Live](https://img.shields.io/badge/Live-Visit%20Site-00D9FF?style=flat-square)](https://gcservicex.com/)
+
 </td>
 </tr>
 </table>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+> 📂 More projects and source code are on my [GitHub repositories](https://github.com/reduanahmadswe?tab=repositories) and [portfolio](https://www.reduanahmadswe.site/).
 
 ---
 
-## 📈 **Contribution Activity**
+## 🛠️ Tech Stack
 
 <div align="center">
+
+| | |
+|:---|:---|
+| **Languages** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Backend** | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![REST](https://img.shields.io/badge/REST%20API-02569B?style=flat-square) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=reduanahmadswe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reduanahmadswe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=reduanahmadswe&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0" alt="GitHub Streak"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reduanahmadswe&theme=radical" alt="Profile Summary"/>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reduanahmadswe&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/reduanahmadswe/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/reduanahmadswe/)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-7C3AED?style=for-the-badge)](https://judge.beecrowd.com/en/profile/943298)
+[![TutorialsPoint](https://img.shields.io/badge/TutorialsPoint-5cb85c?style=for-the-badge&logo=readme&logoColor=white)](https://www.tutorialspoint.com/authors/reduan-ahmad)
+
+<img src="https://leetcode-badge-sage.vercel.app/badge/reduanahmadswe?theme=dark&bgColor=0D1117&border_radius=10" alt="LeetCode Badge"/>
+
+</div>
 
 ---
 
-<div align="center">
-
-## 💭 **Dev Quote**
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
-
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
+## 🤝 Let's Work Together
 
 <div align="center">
 
-### 💡 **Fun Fact**
+| 💻 Full-Stack Projects | 🤝 Freelance Work | 🚀 Startups | 📚 Open Source |
+|:---:|:---:|:---:|:---:|
 
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0D1117" alt="Jokes Card" />
+📧 **[reduanahmadswe@gmail.com](mailto:reduanahmadswe@gmail.com)** &nbsp;•&nbsp; 📱 **[+880 1538 363737](tel:+8801538363737)** &nbsp;•&nbsp; 🌐 **[reduanahmadswe.site](https://www.reduanahmadswe.site/)**
 
-</div>
+*"The best way to predict the future is to create it."*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-<div align="center">
-
-## 🤝 **Let's Connect & Build Together!**
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
-
-**Building modern, scalable web applications with cutting-edge technologies.**  
-**Passionate about creating digital solutions that make a difference.**
-
-### 📫 **Get In Touch**
-
-<table>
-<tr>
-  <td align="center"><strong>📧 Email</strong></td>
-  <td align="center"><strong>📱 Phone</strong></td>
-  <td align="center"><strong>💬 WhatsApp</strong></td>
-  <td align="center"><strong>🌐 Portfolio</strong></td>
-  <td align="center"><strong>📍 Location</strong></td>
-</tr>
-<tr>
-  <td align="center">
-    <a href="mailto:reduanahmadswe@gmail.com">
-      <img src="https://img.shields.io/badge/Email-reduanahmadswe-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </td>
-  <td align="center">
-    <a href="tel:+8801538363737">
-      <img src="https://img.shields.io/badge/Phone-+880%201538%20363737-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://api.whatsapp.com/send/?phone=%2B8801538363737&text&type=phone_number&app_absent=0">
-      <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://www.reduanahmadswe.site/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-    </a>
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  </td>
-</tr>
-</table>
-
-### 💼 **Open For Opportunities**
-
-<div align="center">
-
-| 💻 | 🤝 | 🚀 | 📚 | 🎓 |
-|:---:|:---:|:---:|:---:|:---:|
-| Full-Stack Projects | Freelance Work | Startup Opportunities | Open Source | Tech Community |
+**⭐ Star my repositories if you find them useful!**
 
 </div>
 
-*"The best way to predict the future is to create it!"* 💫
-
-<br/>
-
-
-**⭐ Star my repositories if you find them useful!**  
-**🤝 Open to collaborations and exciting projects!**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-
-**Made with ❤️ in Bangladesh by [Reduan Ahmad](https://www.reduanahmadswe.site/)**
-
-**© 2025 Reduan Ahmad** • Full-Stack Developer • Software Engineer
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-reduanahmadswe.site-FF7139?style=flat-square&logo=firefox)](https://www.reduanahmadswe.site/)
-[![Email](https://img.shields.io/badge/Email-reduanahmadswe@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:reduanahmadswe@gmail.com)
-
-*"Building modern, scalable, and user-friendly web applications"*
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
