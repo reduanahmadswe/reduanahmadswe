@@ -27,16 +27,11 @@
 
 I'm a **Software Engineering student at Daffodil International University** and a **Full-Stack Developer** based in Dhaka, Bangladesh 🇧🇩. I turn ideas into fast, accessible and scalable products, from e-commerce and education platforms to corporate websites and AI-powered apps.
 
-```ts
-const reduan = {
-  role: "Full-Stack Developer",
-  location: "Dhaka, Bangladesh 🇧🇩",
-  education: "B.Sc. in Software Engineering @ DIU",
-  stack: ["React", "Next.js", "TypeScript", "Node.js", "Express", "MongoDB", "PostgreSQL"],
-  currentlyLearning: ["System Design", "Cloud & DevOps", "AI Integrations"],
-  funFact: "I solve problems on LeetCode for fun 🧩",
-} as const;
-```
+<div align="center">
+
+<img src="assets/about.svg" alt="About Reduan" width="100%"/>
+
+</div>
 
 <img src="assets/stats.svg" alt="Highlights" width="100%"/>
 
