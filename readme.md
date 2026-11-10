@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<a href="https://www.reduanahmadswe.site/"><img src="https://img.shields.io/badge/Portfolio-0b0f1a?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Portfolio"/></a>
+<a href="https://reduanahmadswe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0b0f1a?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/reduanahmadswe/"><img src="https://img.shields.io/badge/LinkedIn-0b0f1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
 <a href="mailto:reduanahmadswe@gmail.com"><img src="https://img.shields.io/badge/Email-0b0f1a?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 <a href="https://api.whatsapp.com/send/?phone=%2B8801538363737"><img src="https://img.shields.io/badge/WhatsApp-0b0f1a?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/></a>
@@ -60,7 +60,7 @@ I turn ideas into fast, accessible and scalable products: e-commerce, education 
 </tr>
 </table>
 
-<sub>Click any card to open the live site. More on <a href="https://github.com/reduanahmadswe?tab=repositories">GitHub</a> and my <a href="https://www.reduanahmadswe.site/">portfolio</a>.</sub>
+<sub>Click any card to open the live site. More on <a href="https://github.com/reduanahmadswe?tab=repositories">GitHub</a> and my <a href="https://reduanahmadswe.vercel.app/">portfolio</a>.</sub>
 
 </div>
 
@@ -146,7 +146,7 @@ I turn ideas into fast, accessible and scalable products: e-commerce, education 
 
 <a href="mailto:reduanahmadswe@gmail.com"><img src="https://img.shields.io/badge/reduanahmadswe@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=0b0f1a" alt="Email me"/></a>
 <a href="tel:+8801538363737"><img src="https://img.shields.io/badge/+880_1538_363737-a78bfa?style=for-the-badge&logo=whatsapp&logoColor=0b0f1a" alt="Call me"/></a>
-<a href="https://www.reduanahmadswe.site/"><img src="https://img.shields.io/badge/reduanahmadswe.site-0b0f1a?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Website"/></a>
+<a href="https://reduanahmadswe.vercel.app/"><img src="https://img.shields.io/badge/reduanahmadswe.vercel.app-0b0f1a?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Website"/></a>
 
 <br/><br/>
 
