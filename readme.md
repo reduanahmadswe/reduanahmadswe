@@ -8,16 +8,17 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=reduanahmadswe&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS&labelColor=0D1117)
-![Followers](https://img.shields.io/github/followers/reduanahmadswe?style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github)
-![Stars](https://img.shields.io/github/stars/reduanahmadswe?style=for-the-badge&color=FFD700&labelColor=0D1117&logo=github)
+<img src="https://img.shields.io/badge/Status-Open_to_work-00D9FF?style=flat-square&labelColor=0b0f1a" alt="Open to work"/>
+<img src="https://img.shields.io/badge/Based_in-Dhaka,_BD-a78bfa?style=flat-square&labelColor=0b0f1a" alt="Dhaka, Bangladesh"/>
+<img src="https://img.shields.io/github/followers/reduanahmadswe?style=flat-square&color=00D9FF&labelColor=0b0f1a&logo=github" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=reduanahmadswe&style=flat-square&color=a78bfa&label=Profile+views&labelColor=0b0f1a" alt="Profile views"/>
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://www.reduanahmadswe.site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reduanahmadswe/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reduanahmadswe@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B8801538363737)
+<a href="https://www.reduanahmadswe.site/"><img src="https://img.shields.io/badge/Portfolio-0b0f1a?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/reduanahmadswe/"><img src="https://img.shields.io/badge/LinkedIn-0b0f1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="mailto:reduanahmadswe@gmail.com"><img src="https://img.shields.io/badge/Email-0b0f1a?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<a href="https://api.whatsapp.com/send/?phone=%2B8801538363737"><img src="https://img.shields.io/badge/WhatsApp-0b0f1a?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/></a>
 
 </div>
 
@@ -25,15 +26,18 @@
 
 <img src="assets/banner-about.svg" alt="About Me" width="100%"/>
 
-I'm a **Software Engineering student at Daffodil International University** and a **Full-Stack Developer** based in Dhaka, Bangladesh 🇧🇩. I turn ideas into fast, accessible and scalable products, from e-commerce and education platforms to corporate websites and AI-powered apps.
-
 <div align="center">
+
+I'm a **Software Engineering student at Daffodil International University** and a **Full-Stack Developer** from Dhaka 🇧🇩.<br/>
+I turn ideas into fast, accessible and scalable products: e-commerce, education platforms, corporate websites and AI-powered apps.
+
+<br/>
 
 <img src="assets/about.svg" alt="About Reduan" width="100%"/>
 
-</div>
-
 <img src="assets/stats.svg" alt="Highlights" width="100%"/>
+
+</div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
@@ -56,7 +60,7 @@ I'm a **Software Engineering student at Daffodil International University** and 
 </tr>
 </table>
 
-<sub>👆 Click any card to open the live site. More on <a href="https://github.com/reduanahmadswe?tab=repositories">GitHub</a> and my <a href="https://www.reduanahmadswe.site/">portfolio</a>.</sub>
+<sub>Click any card to open the live site. More on <a href="https://github.com/reduanahmadswe?tab=repositories">GitHub</a> and my <a href="https://www.reduanahmadswe.site/">portfolio</a>.</sub>
 
 </div>
 
@@ -65,6 +69,31 @@ I'm a **Software Engineering student at Daffodil International University** and 
 <img src="assets/banner-stack.svg" alt="Tech Stack" width="100%"/>
 
 <div align="center">
+
+<table>
+<tr>
+<td align="center" width="160"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=js,ts,cpp,java,py&theme=dark" alt="Languages"/></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend"/></td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend"/></td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark" alt="Databases"/></td>
+</tr>
+<tr>
+<td align="center"><b>Tools &amp; Deploy</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman&theme=dark" alt="Tools"/></td>
+</tr>
+</table>
+
+<br/>
 
 <img src="assets/skills.svg" alt="Skills" width="100%"/>
 
@@ -78,10 +107,14 @@ I'm a **Software Engineering student at Daffodil International University** and 
 
 <img src="assets/contrib-3d.svg" alt="3D Contribution Graph" width="100%"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=reduanahmadswe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reduanahmadswe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+<table>
+<tr>
+<td><img height="170" src="https://github-readme-stats.vercel.app/api?username=reduanahmadswe&show_icons=true&hide_border=false&border_color=1e2a44&border_radius=16&bg_color=0b0f1a&title_color=00D9FF&icon_color=a78bfa&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/></td>
+<td><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reduanahmadswe&layout=compact&hide_border=false&border_color=1e2a44&border_radius=16&bg_color=0b0f1a&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="Top Languages"/></td>
+</tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reduanahmadswe&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=reduanahmadswe&hide_border=false&border_radius=16&background=0b0f1a&stroke=1e2a44&ring=00D9FF&fire=a78bfa&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8b949e" alt="GitHub Streak"/>
 
 <img src="assets/activity.svg" alt="Weekly Activity" width="100%"/>
 
@@ -93,12 +126,14 @@ I'm a **Software Engineering student at Daffodil International University** and 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/reduanahmadswe/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/reduanahmadswe/)
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-7C3AED?style=for-the-badge)](https://judge.beecrowd.com/en/profile/943298)
-[![TutorialsPoint](https://img.shields.io/badge/TutorialsPoint-5cb85c?style=for-the-badge&logo=readme&logoColor=white)](https://www.tutorialspoint.com/authors/reduan-ahmad)
+<a href="https://www.leetcode.com/reduanahmadswe/"><img src="https://img.shields.io/badge/LeetCode-0b0f1a?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+<a href="https://www.hackerrank.com/reduanahmadswe/"><img src="https://img.shields.io/badge/HackerRank-0b0f1a?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank"/></a>
+<a href="https://judge.beecrowd.com/en/profile/943298"><img src="https://img.shields.io/badge/Beecrowd-0b0f1a?style=for-the-badge&logo=codeforces&logoColor=a78bfa" alt="Beecrowd"/></a>
+<a href="https://www.tutorialspoint.com/authors/reduan-ahmad"><img src="https://img.shields.io/badge/TutorialsPoint-0b0f1a?style=for-the-badge&logo=readme&logoColor=5cb85c" alt="TutorialsPoint"/></a>
 
-<img src="https://leetcode-badge-sage.vercel.app/badge/reduanahmadswe?theme=dark&bgColor=0D1117&border_radius=10" alt="LeetCode Badge"/>
+<br/><br/>
+
+<img src="https://leetcode-badge-sage.vercel.app/badge/reduanahmadswe?theme=dark&bgColor=0b0f1a&border_radius=16" alt="LeetCode Badge"/>
 
 </div>
 
@@ -108,11 +143,15 @@ I'm a **Software Engineering student at Daffodil International University** and 
 
 <div align="center">
 
-📧 **[reduanahmadswe@gmail.com](mailto:reduanahmadswe@gmail.com)** &nbsp;•&nbsp; 📱 **[+880 1538 363737](tel:+8801538363737)** &nbsp;•&nbsp; 🌐 **[reduanahmadswe.site](https://www.reduanahmadswe.site/)**
+**Open for Full-Stack Projects • Freelance • Startups • Open Source**
 
-Open for **Full-Stack Projects • Freelance • Startups • Open Source**
+<a href="mailto:reduanahmadswe@gmail.com"><img src="https://img.shields.io/badge/reduanahmadswe@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=0b0f1a" alt="Email me"/></a>
+<a href="tel:+8801538363737"><img src="https://img.shields.io/badge/+880_1538_363737-a78bfa?style=for-the-badge&logo=whatsapp&logoColor=0b0f1a" alt="Call me"/></a>
+<a href="https://www.reduanahmadswe.site/"><img src="https://img.shields.io/badge/reduanahmadswe.site-0b0f1a?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Website"/></a>
 
-**⭐ Star my repositories if you find them useful!**
+<br/><br/>
+
+<sub>⭐ If something here helped you, star the repo. It's the best thank-you.</sub>
 
 <br/>
 
