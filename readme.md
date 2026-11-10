@@ -109,12 +109,14 @@ I turn ideas into fast, accessible and scalable products: e-commerce, education 
 
 <table>
 <tr>
-<td><img height="170" src="https://github-readme-stats.vercel.app/api?username=reduanahmadswe&show_icons=true&hide_border=false&border_color=1e2a44&border_radius=16&bg_color=0b0f1a&title_color=00D9FF&icon_color=a78bfa&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/></td>
-<td><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reduanahmadswe&layout=compact&hide_border=false&border_color=1e2a44&border_radius=16&bg_color=0b0f1a&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="Top Languages"/></td>
+<td><img src="assets/gh-stats.svg" width="100%" alt="GitHub Stats"/></td>
+<td><img src="assets/top-langs.svg" width="100%" alt="Top Languages"/></td>
+</tr>
+<tr>
+<td><img src="assets/streak.svg" width="100%" alt="Contribution Streak"/></td>
+<td><img src="assets/leetcode.svg" width="100%" alt="LeetCode Stats"/></td>
 </tr>
 </table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reduanahmadswe&hide_border=false&border_radius=16&background=0b0f1a&stroke=1e2a44&ring=00D9FF&fire=a78bfa&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8b949e" alt="GitHub Streak"/>
 
 <img src="assets/activity.svg" alt="Weekly Activity" width="100%"/>
 
@@ -131,9 +133,6 @@ I turn ideas into fast, accessible and scalable products: e-commerce, education 
 <a href="https://judge.beecrowd.com/en/profile/943298"><img src="https://img.shields.io/badge/Beecrowd-0b0f1a?style=for-the-badge&logo=codeforces&logoColor=a78bfa" alt="Beecrowd"/></a>
 <a href="https://www.tutorialspoint.com/authors/reduan-ahmad"><img src="https://img.shields.io/badge/TutorialsPoint-0b0f1a?style=for-the-badge&logo=readme&logoColor=5cb85c" alt="TutorialsPoint"/></a>
 
-<br/><br/>
-
-<img src="https://leetcode-badge-sage.vercel.app/badge/reduanahmadswe?theme=dark&bgColor=0b0f1a&border_radius=16" alt="LeetCode Badge"/>
 
 </div>
 
