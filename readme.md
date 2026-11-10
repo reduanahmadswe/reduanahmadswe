@@ -51,7 +51,7 @@ I'm a **Software Engineering student at Daffodil International University** and 
 <td><a href="https://mblglobalacademy.com/"><img src="assets/card-mbl.svg" width="100%" alt="MBL Global Academy"/></a></td>
 </tr>
 <tr>
-<td><a href="https://provet.bornosoftnr.com/"><img src="assets/card-provet.svg" width="100%" alt="Provet Resources"/></a></td>
+<td><a href="https://www.provetresources.com.bd/"><img src="assets/card-provet.svg" width="100%" alt="Provet Resources"/></a></td>
 <td><a href="https://gcservicex.com/"><img src="assets/card-gc.svg" width="100%" alt="GC ServiceX"/></a></td>
 </tr>
 </table>
